@@ -1,6 +1,5 @@
 # ECG-meet-BLE
-A compression algorithm for realtime ECG data transmission over BLE advertisements. Independently developed as a final project for my Wireless Protocols for IoT class, along with a research-style writeup.
-
+A compression algorithm for realtime ECG data transmission over BLE advertisements. Independently developed as a final project for my Wireless Protocols for IoT class, along with a research-style writeup. Development was done on the nRF52840DK, along with UC Berkeley's nrf52x-base repo https://github.com/lab11/nrf52x-base.
 Here are some stats I gathered on my own ECG recordings to help me create my algorithm. More information is in the writeup PDF.
 
 Statistics on ECG Data:
